@@ -12,7 +12,7 @@
 - You can reach me via:
 twitter: @the_pythonist
 
-### Please check out my first repository. If you are a pythonist especially, like me, you'll love it.
+### Please check out my repositories. If you are a pythonist especially, like me, you'll love them. Trust 😄.
 
 <!---
 the-pythonist/the-pythonist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
