@@ -7,9 +7,12 @@
 
 - I’m looking to collaborate on anything Python. I've had so many projects that I lost and didn't place on github - hurts me but well, I've got to move on.... :)
 
+- From now on, any project I work on goes in here. 
+
 - You can reach me via:
 twitter: @the_pythonist
 
+### Please check out my first repository. If you are a pythonist especially, like me, you'll love it.
 
 <!---
 the-pythonist/the-pythonist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
