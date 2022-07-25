@@ -4,7 +4,7 @@
 
 - I’m passionate about Cybersecurity and Hacking. You want to hear a cool thing? Hacking is why I began Python.
  
--- Another cool thing? I'm currently undergoing a Master's in Cybersecurity :)
+-- Another cool thing? I am currently studying for a Master's in Cybersecurity :)
 
 
 - I’m looking to collaborate on anything Python. I've had so many projects that I lost and didn't place on github - hurts me but well, I've got to move on.... :)
