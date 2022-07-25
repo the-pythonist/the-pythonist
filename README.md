@@ -3,6 +3,8 @@
 - Been coding in Python since 2018, but somehow I just created a github profile (weird right?). Wish I created and uploaded all my projects since 2018. I've lost so many good projects.
 
 - I’m passionate about Cybersecurity and Hacking. You want to hear a cool thing? Hacking is why I began Python.
+-   d
+-   
 -- Another cool thing? I'm currently undergoing a Master's in Cybersecurity :)
 
 
