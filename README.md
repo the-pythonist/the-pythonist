@@ -10,7 +10,7 @@
 - From now on, any project I work on goes in here. 
 
 - You can reach me via:
-- oops: 'i reach you'
+-- oops: 'i reach you'
 
 ### Please check out my repositories. If you are a pythonist especially, like me, you may like them 😄.
 
