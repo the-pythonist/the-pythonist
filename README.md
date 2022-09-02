@@ -1,20 +1,18 @@
 - Hi, I'm the_pythonist (not pythonista, not pythoneer).
 
-- Been coding in Python since 2018, but somehow I just created a github profile (weird right?). Wish I created and uploaded all my projects since 2018. I've lost so many good projects.
+- Been coding in Python since 2018. Wish I uploaded all my projects since 2018. I've lost good stuffs.
 
-- I’m passionate about Cybersecurity and Hacking. You want to hear a cool thing? Hacking is why I began Python.
- 
--- Another cool thing? I am currently studying for a Master's in Cybersecurity :)
+- I’m passionate about Cybersecurity and Hacking. You want to hear a cool thing? Hacking is why I began Python :)
 
 
-- I’m looking to collaborate on anything Python. I've had so many projects that I lost and didn't place on github - hurts me but well, I've got to move on.... :)
+- I’m looking to collaborate on anything Python. I've had good projects that I lost and didn't place on github - hurts but well, I've got to move on.... :)
 
 - From now on, any project I work on goes in here. 
 
 - You can reach me via:
-twitter: @the_pythonist
+- oops: 'i reach you'
 
-### Please check out my repositories. If you are a pythonist especially, like me, you'll love them. Trust 😄.
+### Please check out my repositories. If you are a pythonist especially, like me, you may like them 😄.
 
 <!---
 the-pythonist/the-pythonist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
