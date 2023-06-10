@@ -11,7 +11,7 @@
 
 
 
-### Please check out my repositories. If you are a pythonist especially, like me, you may like them 😄.
+### Check out my repositories. If you are a pythonist especially, like me, you may like them 😄.
 
 <!---
 the-pythonist/the-pythonist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
