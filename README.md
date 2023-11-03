@@ -5,7 +5,7 @@
 - I’m passionate about Cybersecurity and Hacking. You want to hear a cool thing? Hacking is why I began Python :)
 
 
-- I’m looking to collaborate on anything Python. I've had good projects that I lost and didn't place on github - hurts but well, I've got to move on.... :)
+- I’m looking to collaborate on anything Python.... :)
 
 
 ### Have a look at my repos, you may like them.
