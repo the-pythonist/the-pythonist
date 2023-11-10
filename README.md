@@ -2,7 +2,7 @@
 
 - Been coding in Python since 2018. 
 
-- I’m passionate about Cybersecurity and Hacking. You want to hear a cool thing? Hacking is why I began Python :)
+- I’m passionate about Cybersecurity and Hacking. You want to hear a cool thing? Cybersecurity is why I began Python :)
 
 
 - I’m looking to collaborate on anything Python.... :)
