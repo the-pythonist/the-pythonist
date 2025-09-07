@@ -1,6 +1,6 @@
 - Hi, I'm the_pythonist (not pythonista, not pythoneer).
 
-- Been coding in Python since 2018. 
+- Been coding (on and off) in Python since 2018. 
 
 - I’m passionate about Cybersecurity and Hacking. Hacking is why I began learning Python :)
 
